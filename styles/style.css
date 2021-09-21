@@ -1,0 +1,12 @@
+body{
+    font-family: 'Roboto', sans-serif ;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.43px;
+    background: #e7e7e7;
+}
+
+h1, h2, h3, h4{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1.5px;
+}
